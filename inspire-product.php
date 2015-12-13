@@ -181,6 +181,7 @@
 </div>
 
 <div class="blue-line"></div>
+<div class="blue-line"></div>
 </div>
 
 <div class="clearfix"></div>
