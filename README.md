@@ -22,4 +22,4 @@ Start Bootstrap was created by and is maintained by **David Miller**, Managing P
 
 ## Copyright and License
 
-Copyright 2014-2017 Slant Web Tech, LLC. Code released under the [Apache 2.0](https://github.com/jitendra2u/) license.
+Copyright 2014-2017 Slant Web Tech(Jitendra Kumar), LLC. Code released under the [Apache 2.0](https://github.com/jitendra2u/) license.
